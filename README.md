@@ -15,6 +15,7 @@ Power BI
 DAX
 
 📊 Project Components
+
 🔹 SQL Analysis
 
 Advanced analytical queries including:
@@ -28,8 +29,6 @@ Department & aisle performance
 Basket size analysis
 
 Time-based trends
-
-📁 See /SQL folder
 
 🔹 Power BI Dashboard
 

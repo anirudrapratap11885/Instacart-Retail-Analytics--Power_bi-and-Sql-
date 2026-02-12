@@ -43,7 +43,11 @@ Category insights
 
 Time intelligence
 
-📁 See /Power_bi visualization folder
+## 📥 Download Power BI File
+
+Due to GitHub's 100MB file size limit, the full Power BI dashboard file is hosted on Google Drive.
+
+👉 [Download Power BI Dashboard](https://drive.google.com/uc?export=download&id=1v6MJ1Vtq_0J6Ld_zKne7IGqChI4NZ4om)
 
 📈 Key Insights
 
